@@ -17,7 +17,7 @@
 
 ## Project Description - Titanic Survival Rate
 
-The aim of this project is to predict whether a passenger boarding the Titanic survived or not, based on attributes of each person. This means we are dealing with a binary classification problem, where the possible outcomes are **survived* or **not survived*. 
+The aim of this project is to predict whether a passenger boarding the Titanic survived or not, based on attributes of each person. This means we are dealing with a binary classification problem, where the possible outcomes are *survived* or *not survived*. 
 
 ### Data Preprocessing
 
@@ -35,7 +35,7 @@ After these preprocessing steps, our data is ready to be used for training machi
 
 We use several Supervised Learning Algorithms to perform the training and evaluation, each with different results, so that we can compare them using different metrics and perform an analysis with valuable conclusions.
 
-**More detailed information can be found inside the notebook*
+*More detailed information can be found inside the notebook*
 
 ### How to Run
 
