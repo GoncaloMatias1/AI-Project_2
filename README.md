@@ -2,7 +2,8 @@
 ### Supervised Machine Learning Project
 
 **2024 - 2nd Semester**  
-**Course:** Artificial Intelligence
+**Course:** Artificial Intelligence  
+**Grade:** 18/20
 
 ## Project developed by:
 - Gonçalo Matias
